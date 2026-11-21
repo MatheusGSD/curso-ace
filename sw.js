@@ -1,8 +1,8 @@
 /* Guarda o curso no aparelho para funcionar sem internet.
-   Gerado pelo build.py: curso-ace-20261121-c95c0cbb-dc6cda5e e ["./", "manifest.webmanifest", "icone-180.png", "icone-192.png", "icone-512.png"] são trocados a cada versão,
+   Gerado pelo build.py: curso-ace-20261121-ce99c51e-b494598c e ["./", "manifest.webmanifest", "icone-180.png", "icone-192.png", "icone-512.png"] são trocados a cada versão,
    então qualquer mudança no curso muda este arquivo e o navegador baixa a versão nova. */
 'use strict';
-var CACHE = 'curso-ace-20261121-c95c0cbb-dc6cda5e';
+var CACHE = 'curso-ace-20261121-ce99c51e-b494598c';
 var PREFIXO = 'curso-ace-';
 var ARQUIVOS = ["./", "manifest.webmanifest", "icone-180.png", "icone-192.png", "icone-512.png"];
 // Voz dos quadros: nomes são o hash da fala, então o mesmo arquivo serve a todas as versões.
